@@ -21,6 +21,6 @@ public class Contact {
         college = scan.nextLine();
         System.out.print("What is your petname:");
         petname = scan.nextLine();
-        System.out.print("Hello, my name is " + name + " and I am " + age + " years old.  I'm my time at  " + college + ", though I miss my pet " + petname + " very much!");
+        System.out.print("Hello, my name is " + name + " and I am " + age + " years old.  I'm doing my time at  " + college + ", though I miss my pet " + petname + " very much!");
     }
 }

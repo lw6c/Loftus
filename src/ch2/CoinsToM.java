@@ -18,7 +18,7 @@ package ch2;
 import java.util.*;
 
 public class CoinsToM {
-    public static void Stuff(String[] args) {
+    public static void main (String[] args) {
         double total, one, five, ten, penny, nickel, dime, quarter;
         Scanner scan = new Scanner(System.in);
         System.out.print("Total money:");
