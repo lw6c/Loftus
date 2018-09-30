@@ -15,7 +15,7 @@ public class Triptime {
         System.out.print("Travel Distance in kilometers:");
         kilometers = scan.nextInt();
         System.out.print("Travel speed:");
-        speed​​ = scan.nextDouble();
+        speed = scan.nextDouble();
         time = kilometers / speed;
         System.out.println("Trip time: " + time + " hours.");
     }
