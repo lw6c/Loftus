@@ -7,7 +7,7 @@ package ch2;
 
 import java.util.*;
 
-public class Triptime {
+public class TripTime {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int kilometers;
