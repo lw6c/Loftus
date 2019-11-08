@@ -10,9 +10,10 @@ import java.util.*;
 
 public class Round {
     public static void main(String[] args) {
+
         Scanner scan = new Scanner(System.in);
         double inp;
-        System.out.println("Input a float value:");
+        System.out.println("Input a float value:>");
         inp = scan.nextDouble();
         System.out.println("Smallest close int val: " + (int) Math.floor(inp));
         System.out.println("Greatest close int val: " + (int) Math.ceil(inp));
